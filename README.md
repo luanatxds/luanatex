@@ -35,5 +35,5 @@
 <br><br><br>
 
 <div align="center">
-<img src="https://github.com/luanatex/luanatex/assets/141527536/cd8e3828-f954-42e4-9b74-ebec9ee47b56" align=middle />
+<img src="https://github.com/luanatxds/luanatxds/assets/141527536/cd8e3828-f954-42e4-9b74-ebec9ee47b56" align=middle />
 </div>
