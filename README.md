@@ -27,7 +27,7 @@
 
 <br>
 <p align="center">
-  <a href="https://github.com/luanatex/github-readme-stats">
+  <a href="https://github.com/luanatxds/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanatex&layout=donut&theme=dracula" />
   <a/>
 </p>
